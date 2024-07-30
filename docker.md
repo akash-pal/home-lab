@@ -1,5 +1,6 @@
 
 [Guide](https://docs.docker.com/engine/install/ubuntu/)
+[Video](https://www.youtube.com/watch?v=yCNggtbC_NY)
 
 Set up Docker's apt repository.
 ```
